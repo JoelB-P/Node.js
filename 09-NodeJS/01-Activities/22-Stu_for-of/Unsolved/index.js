@@ -1,4 +1,3 @@
-// Helper function to output text in the terminal in a cyan color
 const outputCyanText = (text) => console.log(`\x1b[36m${text}\x1b[0m`);
 
 // Top 10 Spotify songs in an array
